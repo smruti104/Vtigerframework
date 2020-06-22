@@ -5,6 +5,6 @@ import org.testng.annotations.Test;
 public class CreateTest {
 	@Test
 	public void CreateTest() {
-		System.out.println("good nyt");
+		System.out.println("goodggg nyt");
 	}
 }

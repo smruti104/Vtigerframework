@@ -7,6 +7,7 @@ public class CreateTest {
 	public void CreateTest1() {
 		System.out.println("good morning");
 		System.out.println("demo exstance");
+		System.out.println("good afternoon");
 		
 	}
 }
